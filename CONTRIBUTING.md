@@ -2,7 +2,9 @@
 
 Thanks for helping to build the Scroll ecosystem! Contribution guidelines for this project are a bit odd, because the goal is to collect community contributions made in other repos — some in the scroll-tech organization, but many outside of it.
 
-Please remember, you're representing Scroll's community when you engage with other code repos. Please follow their best practices and be considerate of any reviewer's time.
+Please remember, you're representing Scroll's community when you engage with other code repos. Please follow their best practices and be considerate of any reviewer's time. Following best practices, such as providing clear comments and adhering to established coding styles, goes a long way in ensuring smooth collaboration and a positive impression for our community.
+
+We value your contributions and encourage you to keep up the great work!
 
 ## Getting Started
 
